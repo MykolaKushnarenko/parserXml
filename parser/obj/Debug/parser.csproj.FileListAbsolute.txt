@@ -1,0 +1,14 @@
+c:\users\bancry\source\repos\parser\parser\bin\Debug\parser.exe.config
+c:\users\bancry\source\repos\parser\parser\bin\Debug\parser.exe
+c:\users\bancry\source\repos\parser\parser\bin\Debug\parser.pdb
+c:\users\bancry\source\repos\parser\parser\obj\Debug\parser.csprojResolveAssemblyReference.cache
+c:\users\bancry\source\repos\parser\parser\obj\Debug\parser.csproj.CoreCompileInputs.cache
+c:\users\bancry\source\repos\parser\parser\obj\Debug\parser.exe
+c:\users\bancry\source\repos\parser\parser\obj\Debug\parser.pdb
+C:\Users\BanCry\Desktop\parser\parser\bin\Debug\parser.exe.config
+C:\Users\BanCry\Desktop\parser\parser\bin\Debug\parser.exe
+C:\Users\BanCry\Desktop\parser\parser\bin\Debug\parser.pdb
+C:\Users\BanCry\Desktop\parser\parser\obj\Debug\parser.csprojResolveAssemblyReference.cache
+C:\Users\BanCry\Desktop\parser\parser\obj\Debug\parser.csproj.CoreCompileInputs.cache
+C:\Users\BanCry\Desktop\parser\parser\obj\Debug\parser.exe
+C:\Users\BanCry\Desktop\parser\parser\obj\Debug\parser.pdb
